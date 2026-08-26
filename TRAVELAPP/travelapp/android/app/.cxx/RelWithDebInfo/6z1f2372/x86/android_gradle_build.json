@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "/home/pr1thv1/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/pr1thv1/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/run/media/pr1thv1/02C4BA7D27ABDFF8/Projects/FlutterProjects/Hydro Heroes/travel_app/android/app/.cxx/RelWithDebInfo/6z1f2372/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/pr1thv1/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/run/media/pr1thv1/02C4BA7D27ABDFF8/Projects/FlutterProjects/Hydro Heroes/travel_app/android/app/.cxx/RelWithDebInfo/6z1f2372/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {},
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/pr1thv1/Android/Sdk/ndk/26.3.11579264/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/pr1thv1/Android/Sdk/ndk/26.3.11579264/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}

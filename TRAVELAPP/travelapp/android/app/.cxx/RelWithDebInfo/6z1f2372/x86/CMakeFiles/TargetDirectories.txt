@@ -1,0 +1,2 @@
+/run/media/pr1thv1/02C4BA7D27ABDFF8/Projects/FlutterProjects/Hydro Heroes/travel_app/android/app/.cxx/RelWithDebInfo/6z1f2372/x86/CMakeFiles/edit_cache.dir
+/run/media/pr1thv1/02C4BA7D27ABDFF8/Projects/FlutterProjects/Hydro Heroes/travel_app/android/app/.cxx/RelWithDebInfo/6z1f2372/x86/CMakeFiles/rebuild_cache.dir

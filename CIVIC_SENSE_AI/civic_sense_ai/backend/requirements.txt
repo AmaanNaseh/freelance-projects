@@ -1,0 +1,12 @@
+ultralytics
+flask
+flask-cors
+ultralytics
+opencv-python
+numpy
+pillow
+supervision
+imutils
+dlib
+python-dotenv
+pymongo

@@ -1,0 +1,8 @@
+node_modules
+.venv
+.env
+docs
+ml_training
+results
+uploads
+models
